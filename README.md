@@ -50,13 +50,16 @@ To build the project, follow these steps:
 
 ## Usage
 
-To use the `StreamCiphers` executable, you can run it from the command line. The exact usage will depend on the implementation details of `main.cpp`, which is designed to demonstrate or test the functionality of the stream ciphers.
+To use the `StreamCiphers` executable, you can run it from the command line. The exact usage depend on the implementation details of `main.cpp`, which is designed to demonstrate the functionality of the stream ciphers.
 
 Example:
 
 ```bash
 ./StreamCiphers
 ```
+
+This will create `input.txt` file with greetings to system user.</br>
+Also, there will be 4 files that contains encrypted input file and 4 files that contains decrypted file by each cipher.
 
 ## File Structure
 
